@@ -1777,7 +1777,7 @@ if [ "$DO_CLEANUP" == "yes" ]; then
 	rm -r -f "$INSTALL_DIR/include_copy" >> "$DIR/install.log" 2>&1
 fi
 
-echo "[INFO] Checking PHP build works..."
+echo "[INFO] Checking PHP build works... JuqnGOOD es el mejor en esta mierda"
 $INSTALL_DIR/bin/php --version >>"%log_file%" 2>&1
 $INSTALL_DIR/bin/php -m >>"%log_file%" 2>&1
 
